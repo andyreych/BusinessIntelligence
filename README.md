@@ -10,3 +10,5 @@ In this project, me and my team formed by Johana Danton and Decoda Williams deci
 - Our Team decided to use the 1997 year as a parameter for our reports involving time of sales to identify trends for the upcoming year.
 - Our goal was to create a list of our VIP customers using sum of orders greater than $20,000 and identify their country of origin to focus logistic efforts and marketing purposes.
 - The pie chart's objective was to calculate in percentages the product categories that represent the majority of the sales to measure customer demand in different categories and use the data to make a data driven decision in regards to their inventory.
+
+---SQL Query for Sales by Year-----
