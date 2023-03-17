@@ -16,8 +16,9 @@ In this project, me and my team formed by Johana Danton and Decoda Williams deci
 
 
 # Prepare the reports. 
-- We decided to create two tables for the report named "Sales by Year" in which we created one tabular report using Year as a parent group, followed by the category , and then the total sales by product.
+- We decided to create two tables for the report named "Sales by Year" in which we created one tabular report using Year as a parent group, followed by the category , and then the total sales by product. In addition, we created a matrix report using the sum of sales values for each year and added an indicator for each year to indicate whether the target sales was met.
 ![image](https://user-images.githubusercontent.com/121314771/222940445-de152ada-e3af-4016-bfc7-0998dfbd9421.png)
 ![image](https://user-images.githubusercontent.com/121314771/222940570-0d24df99-a7b2-48ee-b28e-f8045f40e7bb.png)
+
 As we can see the report uses Years as toolkits to help the user get details for each grouping level. 
 
