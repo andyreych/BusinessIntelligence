@@ -1,6 +1,7 @@
 # Final Project CTS3452
-In this project, me and my team formed by Johana Danton and Decoda Williams decided to use Northwind as a database to create the following reports using business intelligence tools such as Visual Studio, and Microsoft SQL Server. 
-# Reports for the final project.
+In this project, my team formed by Johana Danton , Decoda Williams and myself Andy Rey decided to use Northwind Traders, a fictitious organization that manages orders, products, customers, suppliers, and many other aspects of a small business to acts a sample database to create the reports to solve business tasks using business intelligence tools such as Microsoft SQL Server, and Visual Studio. Furthermore, this project is classified in different data analysis phases such as: Ask, Prepare, Process, Analyze, Share, and Act. This phases have the goal to communicate our findings to the stakeholders of Northwind Traders in a concise manner and follow a clear path of our data analysis using the skills learned in our Business Intelligence Reporting Services Class (CTS3452).
+
+# Ask phase
 * Sales by Year (1996-1997-1998)
 * Times Sales Data for the year 1997. 
 * Pie Charts by Product Category representing sales in percentages for the 1997 year. 
