@@ -10,14 +10,16 @@ Stakeholders and upper management of Northwind Traders is asking the business in
 * Which months were considered the most profitable ones last year?
 * Who are our VIP customers and their country of origin?
 * How many orders each employee have handled in total?
+
+
 Important Notes:
 * A VIP Customer is a customer that have orders totalling over $20,0000.
-* The sales target varies from each year, from 1996 the sales target was $
+* The sales target varies from each year, from 1996 the sales target was $x, 1997 was x, and the current year 1998 the sales target is $x
                  
 
 # Prepare phase
+Since all of our data is stored internally in our database our team decided to create a diagram of the necessary tables to create the reports to answer the stakeholder questions
 
-Since all of our data is stored in our databas
 
 * Sales by Year (1996-1997-1998)
 * Times Sales Data for the year 1997. 
