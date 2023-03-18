@@ -31,23 +31,29 @@ Based on this diagram the business intelligence team decided to create the follo
 
 The business intelligence team decided to run SQL Queries in Microsoft SQL Server Management Studio for each Report: 
 * Sales by Year (1996-1997-1998)
+ 
+ 
  ![image](https://user-images.githubusercontent.com/121314771/226076446-6ded7a5b-b604-4e86-b9ec-afa11f281828.png)
 
 
 
 
 *VIP Customers
+
+
 ![image](https://user-images.githubusercontent.com/121314771/226076982-e5066e8d-5aca-4322-a185-01ca479bd638.png)
 
  
 
-Even though all of our queries could answer the questions made by management, it is necessary to process this data and move it into Visual Studio to be able to process it and clean it to make it useful for our purposes.
+Important Note: 
+*All of the SQL queries used to generate the reports are attached in the repository in SQL files to enable reproductionary reports for future BI teams.
 
+*Even though all of our queries could answer the questions made by management, it is necessary use this data with a BI tool such as Visual Studio to be able clean, and process the data to be able to generate useful reports for decision makers and stakeholders in the company.
 
 # Process Phase
-- We decided to create two tables for the report named "Sales by Year" in which we created one tabular report using Year as a parent group, followed by the category , and then the total sales by product. In addition, we created a matrix report using the sum of sales values for each year and added an indicator for each year to indicate whether the target sales was met.
+- Our team decided to create two tables for the report named "Sales by Year" in which we created one tabular report using Year as a parent group, followed by the category , and then the total sales by product. In addition, we created a matrix report using the sum of sales values for each year and added an indicator for each year to indicate whether the target sales was met.
 ![image](https://user-images.githubusercontent.com/121314771/222940445-de152ada-e3af-4016-bfc7-0998dfbd9421.png)
 ![image](https://user-images.githubusercontent.com/121314771/222940570-0d24df99-a7b2-48ee-b28e-f8045f40e7bb.png)
 
-As we can see the report uses Years as toolkits to help the user get details for each grouping level. 
+As we can see the report uses Years as toolkits to help the user get details for each grouping level. As a result, stakeholders and management are able to see the sum of sales for each Year , followed by how much each product category sold, and followed by how much each product within that product category sold as well. 
 
