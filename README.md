@@ -1,16 +1,24 @@
 # Final Project CTS3452
-In this project, my team formed by Johana Danton , Decoda Williams and myself Andy Rey decided to use Northwind Traders, a fictitious organization that manages orders, products, customers, suppliers, and many other aspects of a small business to acts a sample database to create the reports to solve business tasks using business intelligence tools such as Microsoft SQL Server, and Visual Studio. Furthermore, this project is classified in different data analysis phases such as: Ask, Prepare, Process, Analyze, Share, and Act. This phases have the goal to communicate our findings to the stakeholders of Northwind Traders in a concise manner and follow a clear path of our data analysis using the skills learned in our Business Intelligence Reporting Services Class (CTS3452).
+In this project, my team formed by Johana Danton , Decoda Williams , and myself Andy Rey decided to use the database of Northwind Traders, a fictitious organization that manages orders, products, customers, suppliers, and many other aspects of a small business to acts as a sample database to create the reports to solve business tasks using business intelligence tools such as Microsoft SQL Server, and Visual Studio. Furthermore, this project is classified in different data analysis phases such as: Ask, Prepare, Process, Analyze, Share, and Act. This phases have the goal to communicate our findings to the stakeholders of Northwind Traders in a concise manner and follow a clear path of our data analysis using the skills learned in our Business Intelligence Reporting Services Class (CTS3452).
 
 # Ask phase
-Stakeholders and upper management of Northwind Traders is asking the business intelligence team to create reports to answer the followin questions:
+Stakeholders and upper management of Northwind Traders is asking the business intelligence team to create reports to answer the following questions:
 * What was the sum of sales by each year of the company?
 * How much each product category made in sales in each year followed by the product?
-* Was the company able to hit the sales target by each year?
+* Was the company able to hit the sales target each year?
 * How much each product category made in sales represented in percentages last year?
-* Which months were consideres the most profitable last year?
+* Which months were considered the most profitable ones last year?
 * Who are our VIP customers and their country of origin?
-* How many orders each employee handled in total?
-* 
+* How many orders each employee have handled in total?
+Important Notes:
+* A VIP Customer is a customer that have orders totalling over $20,0000.
+* The sales target varies from each year, from 1996 the sales target was $
+                 
+
+# Prepare phase
+
+Since all of our data is stored in our databas
+
 * Sales by Year (1996-1997-1998)
 * Times Sales Data for the year 1997. 
 * Pie Charts by Product Category representing sales in percentages for the 1997 year. 
