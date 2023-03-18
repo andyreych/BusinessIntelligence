@@ -55,5 +55,5 @@ Important Note:
 ![image](https://user-images.githubusercontent.com/121314771/222940445-de152ada-e3af-4016-bfc7-0998dfbd9421.png)
 ![image](https://user-images.githubusercontent.com/121314771/222940570-0d24df99-a7b2-48ee-b28e-f8045f40e7bb.png)
 
-As we can see the report uses Years as toolkits to help the user get details for each grouping level. As a result, stakeholders and management are able to see the sum of sales for each Year , followed by how much each product category sold, and followed by how much each product within that product category sold as well. 
+As we can see the report uses Years as toolkits to help the user get details for each grouping level. As a result, stakeholders and management are able to see the sum of sales for each Year , followed by how much each product category sold, and followed by how much each product sold within that product category as well. 
 
