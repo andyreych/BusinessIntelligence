@@ -10,6 +10,7 @@ Stakeholders and upper management of Northwind Traders are asking the business i
 * Which months were considered the most profitable ones last year?
 * Who are our VIP customers and their country of origin?
 * How many orders each employee have handled in total?
+* How many clients do we have for each country?
 
 
 Important Notes:
@@ -28,6 +29,7 @@ Based on this diagram the business intelligence team decided to create the follo
 * Pie Charts by Product Category representing sales in percentages for the 1997 year. 
 * Total Orders by Employee for the whole years(1996-1997-1998) 
 * A list of VIP Customers that have orders totalling over $20,0000.
+* Total Number of Customers per Country
 
 The business intelligence team decided to run SQL Queries in Microsoft SQL Server Management Studio for each Report: 
 * Sales by Year (1996-1997-1998)
@@ -51,16 +53,24 @@ Important Note:
 *Even though all of our queries could answer the questions made by management, it is necessary use this data with a BI tool such as Visual Studio to be able clean, and process the data to be able to generate useful reports for decision makers and stakeholders in the company.
 
 # Process Phase
-- Our team decided to create two tables for the report named "Sales by Year" in which we created one tabular report using Year as a parent group, followed by the category , and then the total sales by product. In addition, we created a matrix report using the sum of sales values for each year and added an indicator for each year to indicate whether the target sales was met.
+- Our team decided to create two tables for the report named **"Sales by Year"** in which we created one tabular report using Year as a parent group, followed by the category , and then the total sales by product. In addition, we created a matrix report using the sum of sales values for each year and added an indicator for each year to indicate whether the target sales was met.
 ![image](https://user-images.githubusercontent.com/121314771/222940445-de152ada-e3af-4016-bfc7-0998dfbd9421.png)
 ![image](https://user-images.githubusercontent.com/121314771/222940570-0d24df99-a7b2-48ee-b28e-f8045f40e7bb.png)
 
 As we can see the report uses Years as toolkits to help the user get details for each grouping level. As a result, stakeholders and management are able to see the sum of sales for each Year , followed by how much each product category sold, and followed by how much each product sold within that product category as well. 
 
-In addition, we created a report using a table named Employees and Total Orders using a table with the following attributes: Employee ID, Hire Date, Country, First Name, Last Name , and Total Orders. 
+In addition, we created a report using a table named **Employees and Total Orders** using a table with the following attributes: Employee ID, Hire Date, Country, First Name, Last Name , and Total Orders. 
 
 
 ![image](https://user-images.githubusercontent.com/121314771/229222848-8e506367-1042-46e8-9400-b4a1b0da40f2.png)
 
 
-As we can see the table is ordered in descending order by the count of total orders for each employee
+As we can see the table is ordered in descending order by the count of total orders for each employee.
+
+
+In addition, we decided to create a report named **"Total Number of Customers per Country"** 
+
+![image](https://user-images.githubusercontent.com/121314771/229226012-ee758584-cb0b-4369-9596-6c7d6723c593.png)
+
+
+
