@@ -57,3 +57,10 @@ Important Note:
 
 As we can see the report uses Years as toolkits to help the user get details for each grouping level. As a result, stakeholders and management are able to see the sum of sales for each Year , followed by how much each product category sold, and followed by how much each product sold within that product category as well. 
 
+In addition, we created a report using a table named Employees and Total Orders using a table with the following attributes: Employee ID, Hire Date, Country, First Name, Last Name , and Total Orders. 
+
+
+![image](https://user-images.githubusercontent.com/121314771/229222848-8e506367-1042-46e8-9400-b4a1b0da40f2.png)
+
+
+As we can see the table is ordered in descending order by the count of total orders for each employee
